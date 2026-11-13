@@ -1,0 +1,9 @@
+
+{
+  "$schema": "https://developers.cloudflare.com/workers/wrangler/config-schema.json",
+  "name": "hitplay-fm",
+  "compatibility_date": "2026-11-13",
+  "assets": {
+    "directory": "./public"
+  }
+}
